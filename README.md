@@ -1,4 +1,4 @@
-Plikasi Perpustakaan
+Aplikasi Perpustakaan
 
 Daftar Kelompok :
 - Mohamad Romli Firdaus Kamarula (18051204050)
