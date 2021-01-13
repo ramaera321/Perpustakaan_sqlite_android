@@ -1,3 +1,7 @@
-SQLite + Android - Complete Tutorial
+Plikasi Perpustakaan
 
-Note: Video tutorials will be available on my Youtube channel (Stevdza-San) soon.
+Daftar Kelompok :
+- Mohamad Romli Firdaus Kamarula (18051204050)
+- Aditya Eka Pratama (18051204038)
+- Mokhamad Wildan Marzuqon (18051204053)
+- Clarisa Gita Aprillia (18051204078)
