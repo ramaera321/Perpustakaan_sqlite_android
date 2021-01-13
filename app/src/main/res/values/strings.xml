@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Perpusatakaan</string>
+    <string name="text_regis">Belum punya akun ? </string>
+    <string name="text_login">Sudah punya akun ? </string>
+    <string name="link_regis"><a href="" id="toRegis">Registrasi</a></string>
+    <string name="link_login"><a href="" id="toLogin">Login</a></string>
+</resources>
